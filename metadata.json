@@ -1,0 +1,10 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Azure Eigen ingenuity demo Container Instances - with public IP",
+  "description": "Deploy a single Linux container accessible via a public IP using Azure Container Instances.",
+  "summary": "This demonstrates Eigen ingenuity using Azure Container Instances.",
+  "githubUsername": "paulfield",
+  "docOwner": "eigen-ltd",
+  "dateUpdated": "2021-01-29"
+}
