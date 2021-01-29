@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "name": {
-      "value": "acilinuxpublicipcontainergroup"
+      "value": "azure-ingenuity-demo-container"
     },
     "image": {
       "value": "mcr.microsoft.com/azuredocs/aci-helloworld"
